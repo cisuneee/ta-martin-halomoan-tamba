@@ -1,0 +1,6 @@
+=== STRATIFIED 5-FOLD CROSS VALIDATION - BINARY ===
+
+Average Accuracy      : 99.9966%
+Standard Deviation    : 0.0042%
+Minimum Accuracy      : 99.9915%
+Maximum Accuracy      : 100.0000%
